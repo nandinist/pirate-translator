@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300;500&family=Pacifico&display=swap");
+body {
+  font-family: "Pacifico", cursive;
+  background-color: #e5e7eb;
+}
+.container {
+  padding-top: 70px;
+  text-align: center;
+}
+textarea {
+  width: 80%;
+  height: 10vh;
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+  margin-left: 120px;
+}
+
+#output {
+  background-color: white;
+
+  height: 10vh;
+  width: 80%;
+  margin: 1rem;
+  padding: 1rem;
+  margin-left: 120px;
+}
+button {
+  margin-bottom: 50px;
+  font-weight: bold;
+  background-color: #6b7280;
+  padding: 20px 50px;
+}
