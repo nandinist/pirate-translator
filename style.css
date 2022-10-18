@@ -1,6 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300;500&family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
 body {
-  font-family: "Pacifico", cursive;
+  font-family: "Poppins", sans-serif;
   background-color: #e5e7eb;
 }
 .container {
@@ -28,6 +29,6 @@ textarea {
 button {
   margin-bottom: 50px;
   font-weight: bold;
-  background-color: #6b7280;
+  background-color: #cbd5e1;
   padding: 20px 50px;
 }
